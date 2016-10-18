@@ -13,4 +13,10 @@ test-marster++
 
 test-branch1++
 
+<<<<<<< HEAD
 test1++
+=======
+test1
+
+master
+>>>>>>> bef7a94f9bd5917b4a6b850be71a81b842c9e038
